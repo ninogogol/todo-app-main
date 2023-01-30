@@ -1,0 +1,35 @@
+.bg-image-dark {
+    background-image: url('../images/bg-mobile-dark.jpg');
+}
+
+.main-bg-dark {
+    background-color: #171823;
+}
+
+.bg-dark {
+    background: #25273D;
+    box-shadow: 0px 35px 50px -15px rgba(0, 0, 0, 0.5);
+}
+
+.color-dark {
+    color: #C8CBE7;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #393A4B;
+}
+
+.completed-dark {
+    color: #4D5067;
+    text-decoration: line-through;
+}
+
+.footer-dark {
+    color: #5B5E7E;
+    letter-spacing: -0.166667px;
+    font-size: 12px;
+}
+
+.filter-button-dark {
+    color: #5B5E7E;
+}

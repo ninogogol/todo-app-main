@@ -1,0 +1,35 @@
+.bg-image-light {
+    background-image: url('../images/bg-mobile-light.jpg');
+}
+
+.main-bg-light {
+    background-color: #FAFAFA;
+}
+
+.bg-light {
+    background: #FFFFFF;
+    box-shadow: 0px 35px 50px -15px rgba(194, 195, 214, 0.5);
+}
+
+.color-light {
+    color: #393A4B;
+}
+
+.border-bottom-light {
+    border-bottom: 1px solid #E3E4F1;
+}
+
+.completed-light {
+    color: #D1D2DA;
+    text-decoration: line-through;
+}
+
+.footer-light {
+    color: #9495A5;
+    letter-spacing: -0.166667px;
+    font-size: 12px;
+}
+
+.filter-button-light {
+    color: #9495A5;
+}

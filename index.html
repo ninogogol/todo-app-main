@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://kit.fontawesome.com/b33b494db7.js" crossorigin="anonymous"></script>
+  <title>Frontend Mentor | Todo app</title>
+
+</head>
+<body class="main-bg-light">
+    <div class="bg-image bg-image-light"></div>
+    <div class="container">
+      <div class="heading">
+        <h1>Todo</h1>
+        <img class="icon-light" src="images/icon-moon.svg" alt="icon-moon">
+        <img class="icon-dark" src="images/icon-sun.svg" alt="icon-sun">
+      </div>
+      <form class="bg-light" action="javascript:void(0)">
+        <div><input type="checkbox" id="submitCheckbox"></div>
+        <input class="color-light" type="text" id="newTodoItem" placeholder="Create a new todo..." autocomplete="off">
+      </form>
+      <div class="todoItemsContainer bg-light">
+        
+        <!-- TODO Items -->
+        
+      </div>
+      <div class="todoItemsFooter bg-light">
+        <!-- dynamic number -->
+        <span id="item-count" class="footer-light">5 items left</span>
+        <button id="clearCompletedBtn" class="footer-light">Clear Completed</button>
+      </div>
+      <div class="filter bg-light">
+        <button id="allItemsBtn" class="filter-button-light active">All</button>
+        <button id="activeItemsBtn" class="filter-button-light">Active</button>
+        <button id="completedItemsBtn" class="filter-button-light">Completed</button>
+      </div>
+      <p class="dragDrop color-light">Drag and drop to reorder list</p>
+      <div class="attribution color-light">
+            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+            Coded by <a href="https://www.linkedin.com/in/nino-gogoladze-80a075227/" target="_blank" >Nino</a>.
+      </div>
+    </div>
+    <script src="js/Sortable.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
