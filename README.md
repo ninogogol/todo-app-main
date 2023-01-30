@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ninogogol/todo-app-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/ninogogol/todo-app-main)
+- Live Site URL: [GitHub Page](ninogogol.github.io/todo-app-main/)
 
 ## My process
 
