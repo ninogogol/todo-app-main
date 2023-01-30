@@ -19,6 +19,7 @@ This is a simple Todo Application that allows users to create and manage their d
 - Delete Todo items by clicking on the 'X' icon next to each item.
 - Mark Todo items as complete by checking the checkbox next to each item.
 - View all Todo items, active Todo items, or completed Todo items using the 'All', 'Active', and 'Completed' filter buttons.
+- Drag and drop function to reorder list
 
 ### The challenge
 
