@@ -51,9 +51,10 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+- JavaScript
 - Flexbox
 - Mobile-first workflow
-- JS library
+- JS library for drag and drop function
 
 
 ## Author
